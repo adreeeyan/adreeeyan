@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adrian.onrails@gmail.com**
 
-- 📄 Know about my experiences [https://beige-caroljean-24.tiiny.site](https://beige-caroljean-24.tiiny.site)
+- 📄 Know about my experiences [https://adreeeyan.netlify.app](https://adreeeyan.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
